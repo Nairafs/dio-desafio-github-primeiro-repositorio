@@ -1,0 +1,11 @@
+* Caminho de estudo - QA *
+
+1 - Fundamentos de qualidade de software
+2 - Processo de software e ciclo de vida
+3 - Fundamentos de ciência da computação
+4 - Fundamentos de programação
+5 - Padrões de projetos de arquitetura de sistemas
+6 - Testes de software
+7 - Fundamentos de aplicações web e redes
+8 - CVCD
+9 - Testes automatizados

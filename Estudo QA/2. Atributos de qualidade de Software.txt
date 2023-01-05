@@ -1,0 +1,17 @@
+Atributos de qualidade de Software
+
+- Segurança
+- Proteção
+- Confiabilidade
+- Resiliência 
+- Robustez
+- Usabilidade
+- Reusabilidade
+- Compreensibilidade
+- Testabilidade
+- Adaptabilidade
+- Modularidade
+- Complexidade
+- Portabilidade
+- Eficiencia 
+- Capacidade de aprendizado

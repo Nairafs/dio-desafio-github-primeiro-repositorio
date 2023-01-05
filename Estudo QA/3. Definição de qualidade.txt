@@ -1,0 +1,10 @@
+ISO9000:2005 Grau no qual um conjunto de caracteres inerentes satisfaz a requesitos (geral)
+
+- Requesitos de software são a base para medir qualidade
+
+Percepção de qualidade 
+*Visão Transcendental - qualidade por experiência
+*Visão Usuário - Personalizado de acordo a necessidade do usuário
+*Visão Manufatura - Qualidade relacionada com conformidade dos requesitos
+*Visão Produto - Produtos boas propriedades internas ela irá ter boas propriedades externas
+*Visão Baseado em Valor - Representa "custo-beneficio" na visão do cliente
